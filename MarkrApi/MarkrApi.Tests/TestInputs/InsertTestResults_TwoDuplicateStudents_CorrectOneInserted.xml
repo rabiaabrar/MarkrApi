@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<mcq-test-results>
+  <mcq-test-result scanned-on="2017-12-04T12:12:10+11:00">
+    <first-name>KJ</first-name>
+    <last-name>Alysander</last-name>
+    <student-number>002299</student-number>
+    <test-id>1</test-id>
+    <summary-marks available="20" obtained="8" />
+  </mcq-test-result>
+  <mcq-test-result scanned-on="2017-12-04T12:13:10+11:00">
+    <first-name>KJ</first-name>
+    <last-name>Alysander</last-name>
+    <student-number>002299</student-number>
+    <test-id>1</test-id>
+    <summary-marks available="20" obtained="13" />
+  </mcq-test-result>
+</mcq-test-results>
